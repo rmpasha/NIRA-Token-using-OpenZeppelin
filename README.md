@@ -1,8 +1,7 @@
 "# NIRA-Token-using-OpenZeppelin" 
+"# NIRA_TOKEN_oz"
 
-Please check the document "Using Open_Zeppelin Library.docx" for the output of this project.
+This Project has been moved to https://github.com/rmpasha/NIRA_TOKEN_oz 
 
-If you need to run or test this project email me at rm_pasha@hotmail.com because this project doesn't include node_module folder. I couldn't upload this because of large size of files and folders.
-
-Thanks
+Thanks, 
 Rajendra Maharjan
